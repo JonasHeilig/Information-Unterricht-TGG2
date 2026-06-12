@@ -1,0 +1,24 @@
+h1 {
+    font-family: Arial;
+    font-size: xx-large;
+    font-weight: 900;
+    font-variant: small-caps;
+    color: #FF0000;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 15pt;
+    font-weight: 800;
+    font-variant: small-caps;
+    color: #0000C0;
+    background-color: #FFFF00;
+}
+
+b {
+    font-family: Arial;
+    font-size: 11pt;
+    font-weight: 700;
+    color: #FF0000;
+    font-style: italic;
+}
